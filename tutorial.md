@@ -4,7 +4,9 @@
 レゴブロック.まえ()
 レゴブロック.うしろ()
 レゴブロック.ぶらんぶらん()
-input.onButtonPressed
+input.onButtonPressed(Button.A, function () {
+	
+})
 ```
 
 ## Step 1
